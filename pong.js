@@ -1,4 +1,5 @@
 var canvas,ctx,w,h,color;
+var usrPaddle,cpuPaddle;
 
 window.onload = function()
 {
